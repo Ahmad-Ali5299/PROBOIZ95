@@ -1,0 +1,2 @@
+IP: Ahmaddudead.aternos.me
+Port: 27662
